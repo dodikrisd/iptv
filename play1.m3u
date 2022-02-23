@@ -125,6 +125,30 @@ https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
 #EXTINF:-1 group-title="HIBURAN", MIAMI TV LATINO
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 
+#EXTINF:-1 group-title="FILM" tvg-id="FilmHub.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AQkhR58.png" group-title="Movies",Film Hub (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="BEIN SPORT",BEIN 1 PREMIUM HD
+http://maxq.live:800/000123/111/492
+#EXTINF:-1 group-title="BEIN SPORT",BEIN 2 PREMIUM HD
+http://maxq.live:800/000123/111/474
+#EXTINF:-1 group-title="BEIN SPORT",BEIN 3 PREMIUM HD
+http://maxq.live:800/000123/111/475
+#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS 1 HD
+http://maxq.live:800/000123/111/476
+#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS 2 HD
+http://maxq.live:800/000123/111/477
+#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS 3 HD
+http://maxq.live:800/000123/111/478
+#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS 4 HD
+http://maxq.live:800/000123/111/479
+#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS 5 HD
+http://maxq.live:800/000123/111/480
+#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS 6 HD
+http://maxq.live:800/000123/111/481
+#EXTINF:-1 group-title="BEIN SPORT",BEIN SPORTS 7 HD
+http://maxq.live:800/000123/111/482
+
 #EXTINF:-1 group-title="TV SPORT",USA | ESPN 2
 http://soberon.us:25461/boris/boris/256
 #EXTINF:-1 group-title="TV SPORT", TVRI World
@@ -204,32 +228,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="TV ENTERTAIN", Fashion TV Paris
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV ENTERTAIN", GALAXY
-http://nontonbola.my.id/hustv/galaxy.m3u8?punyanya=gasss
-#EXTINF:-1 group-title="TV ENTERTAIN", GALAXY PREMIUM
-http://nontonbola.my.id/hustv/galaxypremi.m3u8?punyanya=gasss
-#EXTINF:-1 group-title="TV ENTERTAIN", HBO 
-https://dik.si/hbosyarman
-#EXTINF:-1 group-title="TV ENTERTAIN", HBO Backup
-https://Lnk.ec/hboID?shareext.ts
-#EXTINF:-1 group-title="TV ENTERTAIN", HBO Backup 2
-https://lnk.ec/hboID?muviss.ts
-#EXTINF:-1 group-title="TV ENTERTAIN", HBO Family 
-https://dik.si/hbofamsyarman
-#EXTINF:-1 group-title="TV ENTERTAIN", HBO Family Backup 
-https://Lnk.ec/hboFamID?shareext.ts
-#EXTINF:-1 group-title="TV ENTERTAIN", HBO Family Backup 2
-https://lnk.ec/hboFamID?muviss.ts
-#EXTINF:-1 group-title="TV ENTERTAIN", HBO Hits 
-https://dik.si/hbohitsyarman
-#EXTINF:-1 group-title="TV ENTERTAIN", HBO Hits Backup 
-https://Lnk.ec/hboHitsID?shareext.ts
-#EXTINF:-1 group-title="TV ENTERTAIN", HBO Hits Backup 2
-https://lnk.ec/hboHitsID?muviss.ts
-#EXTINF:-1 group-title="TV ENTERTAIN", HBO Signature 
-https://dik.si/hbosigsyarman
-#EXTINF:-1 group-title="TV ENTERTAIN", HBO Signature Backup 
-https://Lnk.ec/hboSigID?shareext.ts
 #EXTINF:-1 group-title="TV ENTERTAIN", HITS
 http://210.210.155.35/dr9445/h/h37/01.m3u8
 #EXTINF:-1 group-title="TV ENTERTAIN", K+
@@ -269,19 +267,10 @@ http://210.210.155.35/dr9445/h/h21/index.m3u8
 #EXTINF:-1 group-title="TV ENTERTAIN", WAKU WAKU
 https://Lnk.ec/waku2?shareext.ts
 
-
-#EXTINF:-1 group-title="TV EDUKASI", DISCOVERY CHANNEL 
-https://Lnk.ec/FOXHD?shareext.ts
-#EXTINF:-1 group-title="TV EDUKASI", DISCOVERY CHANNEL 
-http://139.99.71.104:8888/live/blink8/kurBPQgPf6/95.ts
-#EXTINF:-1 group-title="TV EDUKASI", HISTORY CHANNEL
-http://139.99.71.104:8888/live/blink7/38Jz5ErUNG/718.ts
 #EXTINF:-1 group-title="TV EDUKASI", NASA
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 group-title="TV EDUKASI", NATGEO
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:-1 group-title="TV EDUKASI", NATGEO WILD
-http://139.99.71.104:8888/live/blink6/yOttch0ZLF/97.ts
 
 #EXTINF:-1 group-title="TV Anak", ANIPLUS
 http://210.210.155.35/session/a0d64ce0-dd9a-11eb-9219-c81f66f89318/dr9445/h/h02/index10.m3u8
