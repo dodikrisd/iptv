@@ -119,6 +119,10 @@ http://210.210.155.35/session/9aa73dba-b047-11ea-90e8-b89d8d61f196/qwr9ew/s/s11/
 #EXTINF:-1 group-title="TV LOKAL", UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
+
+#EXTINF:-1 group-title="HIBURAN", ADULT | SWIM FISH CAM
+https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
+
 #EXTINF:-1 group-title="TV SPORT",USA | ESPN 2
 http://soberon.us:25461/boris/boris/256
 #EXTINF:-1 group-title="TV SPORT", TVRI World
