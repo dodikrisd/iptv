@@ -103,8 +103,6 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 //NASIONAL
 #EXTINF:-1 group-title="TV NASIONAL", RCTI
-https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
-#EXTINF:-1 group-title="TV NASIONAL", RCTI BACKUP 2
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 #EXTINF:-1 group-title="TV NASIONAL", TVRI
 http://210.210.155.35/session/9aa73dba-b047-11ea-90e8-b89d8d61f196/qwr9ew/s/s11/02.m3u8
