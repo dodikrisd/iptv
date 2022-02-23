@@ -119,62 +119,8 @@ http://210.210.155.35/session/9aa73dba-b047-11ea-90e8-b89d8d61f196/qwr9ew/s/s11/
 #EXTINF:-1 group-title="TV LOKAL", UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
-
-#EXTINF:-1 group-title="beIN SPORT",beIN Sports Premium 1 HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.222.76:8080/qwq/qeeqwqe/2
-#EXTINF:-1 group-title="beIN SPORT",beIN Sports Premium 2 HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.222.76:8080/qwq/qeeqwqe/3
-#EXTINF:-1 group-title="beIN SPORT",beIN Sports Premium 3 HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.222.76:8080/qwq/qeeqwqe/4
-#EXTINF:-1 group-title="beIN SPORT",beIN Sports Pre 1 SD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.222.76:8080/qwq/qeeqwqe/12
-#EXTINF:-1 group-title="beIN SPORT",beIN Sports Pre 2 SD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.222.76:8080/qwq/qeeqwqe/13
-#EXTINF:-1 group-title="beIN SPORT",beIN Sports Pre 3 SD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.222.76:8080/qwq/qeeqwqe/14
-#EXTINF:-1 group-title="beIN SPORT",beIN Sports Premium 1
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.222.76:8080/qwq/qeeqwqe/36
-#EXTINF:-1 group-title="beIN SPORT",beIN Sports Premium
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.222.76:8080/qwq/qeeqwqe/37
-#EXTINF:-1 group-title="beIN SPORT",beIN Sports 1 HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.222.76:8080/qwq/qeeqwqe/5
-#EXTINF:-1 group-title="beIN SPORT",beIN Sports 2 HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.222.76:8080/qwq/qeeqwqe/6
-#EXTINF:-1 group-title="beIN SPORT",beIN Sports 3 HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.222.76:8080/qwq/qeeqwqe/7
-#EXTINF:-1 group-title="beIN SPORT",beIN Sports 4 HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.222.76:8080/qwq/qeeqwqe/8
-#EXTINF:-1 group-title="beIN SPORT",beIN Sports 5 HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.222.76:8080/qwq/qeeqwqe/9
-#EXTINF:-1 group-title="beIN SPORT",beIN Sports 1 SD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.222.76:8080/qwq/qeeqwqe/15
-#EXTINF:-1 group-title="beIN SPORT",beIN Sports 2 SD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.222.76:8080/qwq/qeeqwqe/16
-#EXTINF:-1 group-title="beIN SPORT",beIN Sports 3 SD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.222.76:8080/qwq/qeeqwqe/17
-#EXTINF:-1 group-title="beIN SPORT",beIN Sports 4 SD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.222.76:8080/qwq/qeeqwqe/18
-#EXTINF:-1 group-title="beIN SPORT",beIN Sports 5 SD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.222.76:8080/qwq/qeeqwqe/19
-
+#EXTINF:-1 group-title="TV SPORT",USA | ESPN 2
+http://soberon.us:25461/boris/boris/256
 #EXTINF:-1 group-title="TV SPORT", TVRI World
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="TV SPORT", ASTRO ARENA
