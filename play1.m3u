@@ -49,9 +49,9 @@ https://cubmu.nomaden.tv:8279/INSERT/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 #EXTINF:-1 group-title="TV LOKAL", JAK TV
-https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
+http://playlist.urfan.web.id/x6bnqe/s/s46/S4/mnf.m3u8
 #EXTINF:-1 group-title="TV LOKAL", KOMPAS TV
-https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
+http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 group-title="TV LOKAL", KOMPAS TV BACKUP
 https://cubmu.nomaden.tv:8279/KOMPASTV/playlist.m3u8
 #EXTINF:-1 group-title="TV LOKAL", KOMPAS TV BACKUP 2
@@ -65,13 +65,13 @@ http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="TV LOKAL", MEGASWARA TV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 #EXTINF:-1 group-title="TV LOKAL", Metro TV 
-https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
+http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
 #EXTINF:-1 group-title="TV LOKAL", MNCTV 
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 #EXTINF:-1 group-title="TV LOKAL", Musik INDO
 https://cubmu.nomaden.tv:8279/MUSIKINDO/playlist.m3u8
 #EXTINF:-1 group-title="TV LOKAL", MYTV
-https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
+http://playlist.urfan.web.id/x6bnqe/s/s88/S4/mnf.m3u8
 #EXTINF:-1 group-title="TV LOKAL", NET TV
 https://cubmu.nomaden.tv:8279/NET/playlist.m3u8
 #EXTINF:-1 group-title="TV LOKAL", NET TV Backup
@@ -105,13 +105,13 @@ https://cubmu.nomaden.tv:8279/TRANS7/playlist.m3u8
 #EXTINF:-1 group-title="TV LOKAL", TRANS 7 BACKUP 
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV LOKAL", TRANS TV
-https://cubmu.nomaden.tv:8279/TRANSTV/playlist.m3u8
+http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
 #EXTINF:-1 group-title="TV LOKAL", TransTV BACKUP 
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV LOKAL", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 group-title="TV LOKAL", TV ONE
-https://cubmu.nomaden.tv:8279/TVONE/playlist.m3u8
+http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 group-title="TV LOKAL", TV ONE Backup
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1 group-title="TV LOKAL", TVRI
