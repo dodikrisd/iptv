@@ -9,53 +9,32 @@ http://210.210.155.35/session/751485fe-aee3-11ea-934d-b82a72d63267/qwr9ew/s/s07/
 https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
 #EXTINF:-1 group-title="TV LOKAL", BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 group-title="TV LOKAL", BERITA SATU BACKUP
-https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999
 #EXTINF:-1 group-title="TV LOKAL", BERITA SATU ENGLISH
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 #EXTINF:-1 group-title="TV LOKAL", Bisnet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 #EXTINF:-1 group-title="TV LOKAL", Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:-1 group-title="TV LOKAL", CNN
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
-#EXTINF:-1 group-title="TV LOKAL", CNN BACKUP
-https://cubmu.nomaden.tv:8279/CNNINDONESIA/playlist.m3u8
-#EXTINF:-1 group-title="TV LOKAL", CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
-#EXTINF:-1 group-title="TV LOKAL", CNBC INDONESIA Backup
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/eroz_brebes.m3u8
-#EXTINF:-1 group-title="TV LOKAL", CNBC INDONESIA Backup 2
-https://cubmu.nomaden.tv:8279/CNBCIND/playlist.m3u8
 #EXTINF:-1 group-title="TV LOKAL", DAAI TV
 http://210.210.155.35/session/7627146c-d57e-11eb-a769-b82a72d63267/qwr9ew/s/s13/index.m3u8
-#EXTINF:-1 group-title="TV LOKAL", DUNIA LAIN
-https://cubmu.nomaden.tv:8279/DUNIALAIN/playlist.m3u8
-#EXTINF:-1 group-title="TV LOKAL", EATNGO
-https://cubmu.nomaden.tv:8279/EATNGO/playlist.m3u8
 #EXTINF:-1 group-title="TV LOKAL", ELSHINTA
 http://210.210.155.35/session/4c182778-8e4e-11eb-8016-b82a72d63267/qwr9ew/s/s10/index10.m3u8
-#EXTINF:-1 group-title="TV LOKAL", GTV
-https://cubmu.nomaden.tv:8279/GLOBALTV/playlist.m3u8
-#EXTINF:-1 group-title="TV LOKAL", GTV BACKUP
+#EXTINF:-1 group-title="TV LOKAL", GTV 
 https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
 #EXTINF:-1 group-title="TV LOKAL", INDOSIANA TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/2.m3u8
 #EXTINF:-1 group-title="TV LOKAL", INDOSIAR
-https://cubmu.nomaden.tv:8279/INDOSIAR/playlist.m3u8
+http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 group-title="TV LOKAL", INEWS
 https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
 #EXTINF:-1 group-title="TV LOKAL", INSERT
 https://cubmu.nomaden.tv:8279/INSERT/playlist.m3u8
 #EXTINF:-1 group-title="TV LOKAL", JAKARTA GLOBE
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 #EXTINF:-1 group-title="TV LOKAL", JAK TV
 http://playlist.urfan.web.id/x6bnqe/s/s46/S4/mnf.m3u8
 #EXTINF:-1 group-title="TV LOKAL", KOMPAS TV
 http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1 group-title="TV LOKAL", KOMPAS TV BACKUP
-https://cubmu.nomaden.tv:8279/KOMPASTV/playlist.m3u8
 #EXTINF:-1 group-title="TV LOKAL", KOMPAS TV BACKUP 2
 http://210.210.155.35/session/7ed45662-2ed8-11eb-9063-b82a72d63267/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 group-title="TV LOKAL", MAGNA CHANNEL
@@ -64,19 +43,14 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
 #EXTINF:-1 group-title="TV LOKAL", MALEO TV
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="TV LOKAL", MEGASWARA TV
-https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 #EXTINF:-1 group-title="TV LOKAL", Metro TV 
 http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
 #EXTINF:-1 group-title="TV LOKAL", MNCTV 
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
-#EXTINF:-1 group-title="TV LOKAL", Musik INDO
-https://cubmu.nomaden.tv:8279/MUSIKINDO/playlist.m3u8
 #EXTINF:-1 group-title="TV LOKAL", MYTV
 http://playlist.urfan.web.id/x6bnqe/s/s88/S4/mnf.m3u8
-#EXTINF:-1 group-title="TV LOKAL", NET TV
-https://cubmu.nomaden.tv:8279/NET/playlist.m3u8
-#EXTINF:-1 group-title="TV LOKAL", NET TV Backup
+
+#EXTINF:-1 group-title="TV LOKAL", NET TV 
 http://45.126.83.51/session/9a1333a4-93cd-11ea-ac63-966cac0014e4/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 group-title="TV LOKAL", NUSANTARA TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
@@ -110,17 +84,18 @@ http://210.210.155.35/session/9aa73dba-b047-11ea-90e8-b89d8d61f196/qwr9ew/s/s11/
 http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 group-title="TV NASIONAL", TV ONE Backup
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
-#EXTINF:-1 group-title="TV NASIONAL", TRANS 7
-https://cubmu.nomaden.tv:8279/TRANS7/playlist.m3u8
-#EXTINF:-1 group-title="TV NASIONAL", TRANS 7 BACKUP 
+#EXTINF:-1 group-title="TV NASIONAL", TRANS 7 
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV NASIONAL", TRANS TV
 http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
-#EXTINF:-1 group-title="TV NASIONAL", TransTV BACKUP 
-#EXTINF:-1 group-title="TV LOKAL", SCTV
-https://cubmu.nomaden.tv:8279/SCTV/playlist.m3u8
-#EXTINF:-1 group-title="TV LOKAL", SCTV Backup
+#EXTINF:-1 group-title="TV NASIONAL", SCTV 
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 group-title="TV NASIONAL", CNN
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1 group-title="TV NASIONAL", CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+#EXTINF:-1 group-title="TV NASIONAL", CNBC INDONESIA Backup
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/eroz_brebes.m3u8
 
 //18+
 #EXTINF:-1 group-title="18+", ADULT | SWIM FISH CAM
