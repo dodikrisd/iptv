@@ -337,6 +337,37 @@ https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 #EXTINF:-1 group-title="MOVIES",PARAMOUNT MOVIES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8
 
+#EXTINF:-1 group-title="MOVIES",XUMO FREE MOVIES
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES",BFlix
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+
+#EXTINF:-1 group-title="MOVIES",LOCAL NOW '30s-40s
+https://linear-204.frequency.stream/dist/localnow/204/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",LOCAL NOW '20s
+https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES",LOCAL NOW '10s
+https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES",LOCAL NOW '00s
+https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES",MyTime Movie Network
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES",MOVIESPHERE
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES",MOVIE KINGDOM
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+
+#EXTINF:-1 group-title="MOVIES",PLUTO CRIME MOVIE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8
+
+//MUSICS
+#EXTINF:-1 group-title="MUSICS",1HD MUSICS
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
 
