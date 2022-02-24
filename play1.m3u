@@ -319,4 +319,29 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="TV Anak", Spacetoon Backup
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 
+#EXTM3U
+#EXTINF:-1 group-title="VOD 18+",ERIC ANDRE
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+
+#EXTINF:-1 group-title="VOD 18+",ROBOT CHICKEN
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+
+#EXTINF:-1 group-title="VOD 18+",BLACK JESUS
+https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+
+#EXTINF:-1 group-title="VOD 18+",PINK EROTIXXX
+https://ahhttp.porndig.com/key=9QV-jNi9yYTa-l5bk1C2rg,end=1645696217/videos/2021/04/455965_13.mp4
+
+#EXTINF:-1 group-title="VOD 18+",PINK EROTIXXX
+https://ahhttp.porndig.com/key=eWBcrRHoogwV7LoGr03NLw,end=1645696531/videos/2020/05/341717_22.mp4
+
+#EXTINF:-1 group-title="VOD 18+",MY BEST BOY FRIEND
+https://ahhttp.porndig.com/key=5wYqe67Ass3fER5Zh5eKHA,end=1645697164/videos/2018/01/247222_13.mp4
+
+#EXTINF:-1 group-title="VOD 18+",NUART ADULT
+https://ahhttp.porndig.com/key=XQB+JTZ92Hwb46-XZfrM2A,end=1645697405/videos/2020/01/328924_13.mp4"
+
+#EXTINF:-1 group-title="VOD 18+",TV CINERO
+http://totv.org/tv-cinero
+
 
